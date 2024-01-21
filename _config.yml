@@ -27,7 +27,7 @@ twitter_username: group# 1
 github_username:  torresbe
 
 # Build settings
-theme: cayman 020
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
 
