@@ -20,14 +20,14 @@
 
 title: Hello, dh900!
 email: eryi.catalina@ualberta.ca
-description: "I don't need to write awesome text in meta for now"
+description: "This is a basic example designless of a static website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dh900_group1
+twitter_username: group# 1
 github_username:  torresbe
 
 # Build settings
-theme: minima
+theme: cayman 020
 plugins:
   - jekyll-feed
 
